@@ -2,4 +2,28 @@ p {
     color: red;
     font-size: 17px;
     text-align: center;
+    font-weight: bold;
+}
+.error {
+    border-color: red;
+}
+
+.name{
+    margin-right: 20px;
+    font-weight: bolder;
+}
+.email{
+    margin-right: 24px;
+    font-weight: bolder;
+}
+.message{
+    font-weight: bolder;
+}
+button{
+    color:azure;
+    border-color:yellow;
+    background-color:blue;
+}
+button:hover {
+    background-color:blueviolet;
 }
