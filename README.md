@@ -7,9 +7,15 @@ then run "npm install" to install pakages
 then run "npm start" to host the site
 
 the open the link http://localhost:3000/
-<img width="947" alt="Screenshot_20240802_104352" src="https://github.com/user-attachments/assets/00537e65-48e6-47eb-8169-74d757733e8d">
-<img width="941" alt="Screenshot_20240802_104406" src="https://github.com/user-attachments/assets/006f1b7c-e6c2-4394-8332-660ed528371e">
-<img width="941" alt="Screenshot_20240802_104437" src="https://github.com/user-attachments/assets/88bc945e-7788-4111-abde-dba891c30f56">
-<img width="941" alt="Screenshot_20240802_104457" src="https://github.com/user-attachments/assets/351adcbd-0a7d-4360-bdc9-9ac7ac9a4ad0">
-<img width="943" alt="Screenshot_20240802_104514" src="https://github.com/user-attachments/assets/07ad31c9-2625-4579-9030-839f8ac95ae4">
-<img width="946" alt="Screenshot_20240802_104533" src="https://github.com/user-attachments/assets/fcdfa456-3c0b-4862-95cf-bb5b6da745f6">
+<img width="953" alt="Screenshot_20240804_052939" src="https://github.com/user-attachments/assets/357e805a-fba9-4d7d-9010-827c7c0219bf">
+<img width="954" alt="Screenshot_20240804_053015" src="https://github.com/user-attachments/assets/42243b5a-ee17-4077-96a3-417e4dad49f5">
+<img width="955" alt="Screenshot_20240804_053043" src="https://github.com/user-attachments/assets/abdaae40-d26b-4c5e-9785-2fe005e99bdf">
+<img width="954" alt="Screenshot_20240804_053109" src="https://github.com/user-attachments/assets/d427f903-c42e-416f-a006-d3307e27e214">
+<img width="956" alt="Screenshot_20240804_053134" src="https://github.com/user-attachments/assets/2c4ebcaa-8672-408c-afac-47a201086581">
+<img width="955" alt="Screenshot_20240804_053217" src="https://github.com/user-attachments/assets/8a4e9808-a762-4af2-a740-c850d210ac45">
+<img width="954" alt="Screenshot_20240804_053238" src="https://github.com/user-attachments/assets/78756919-d41d-44d4-b195-47ff909820db">
+
+
+
+
+
